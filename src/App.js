@@ -23,7 +23,7 @@ rules.push(<Rule
 />);
 rules.push(<Rule
   name="Follow your tier list order early on"
-  description="Your first several picks should usually use your tier list's ordering within a color. Below are any recent times that did not happen."
+  description="Your first several picks should usually use your tier list's ordering within a color. Below are any recent times that did not happen. Cards that are tbd on your tier list are placed based on average last pick time."
   performance="0.9"
   performanceMethod={PERFORMANCE_METHOD.MINIMUM}
   target="0.97"
@@ -59,7 +59,7 @@ rules.push(<Rule
   performance="0.13"
   performanceMethod={PERFORMANCE_METHOD.MAXIMUM}
   target="0.05"
-  children={<div>You mulliganned 13% of the time</div>}
+  children={<div>You mulliganned 13% of the time.</div>}
 />);
 rules.push(<Rule
   name="Play to the fast speed of this format"

@@ -1,3 +1,7 @@
+Prototype of suggestions 17Lands could provide to users based on their data.
+
+This borrows heavilly from the look and feel of wowanalyzer.com, and from themes discussed on the 17Lands episode of Limited Level-Ups
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/mtg-analyzer/static/css/main.f09315ee.chunk.css",
-    "main.js": "/mtg-analyzer/static/js/main.be4bb029.chunk.js",
-    "main.js.map": "/mtg-analyzer/static/js/main.be4bb029.chunk.js.map",
+    "main.js": "/mtg-analyzer/static/js/main.795baa69.chunk.js",
+    "main.js.map": "/mtg-analyzer/static/js/main.795baa69.chunk.js.map",
     "runtime-main.js": "/mtg-analyzer/static/js/runtime-main.766b1336.js",
     "runtime-main.js.map": "/mtg-analyzer/static/js/runtime-main.766b1336.js.map",
     "static/css/2.6414bb7b.chunk.css": "/mtg-analyzer/static/css/2.6414bb7b.chunk.css",
-    "static/js/2.91d1848a.chunk.js": "/mtg-analyzer/static/js/2.91d1848a.chunk.js",
-    "static/js/2.91d1848a.chunk.js.map": "/mtg-analyzer/static/js/2.91d1848a.chunk.js.map",
+    "static/js/2.e8744b4c.chunk.js": "/mtg-analyzer/static/js/2.e8744b4c.chunk.js",
+    "static/js/2.e8744b4c.chunk.js.map": "/mtg-analyzer/static/js/2.e8744b4c.chunk.js.map",
     "index.html": "/mtg-analyzer/index.html",
-    "precache-manifest.96fd32b18e6a4853ec4fb906c3026a7a.js": "/mtg-analyzer/precache-manifest.96fd32b18e6a4853ec4fb906c3026a7a.js",
+    "precache-manifest.721cd1cc6d57428b51c15a4d9a018cc8.js": "/mtg-analyzer/precache-manifest.721cd1cc6d57428b51c15a4d9a018cc8.js",
     "service-worker.js": "/mtg-analyzer/service-worker.js",
     "static/css/2.6414bb7b.chunk.css.map": "/mtg-analyzer/static/css/2.6414bb7b.chunk.css.map",
     "static/css/main.f09315ee.chunk.css.map": "/mtg-analyzer/static/css/main.f09315ee.chunk.css.map",
-    "static/js/2.91d1848a.chunk.js.LICENSE.txt": "/mtg-analyzer/static/js/2.91d1848a.chunk.js.LICENSE.txt"
+    "static/js/2.e8744b4c.chunk.js.LICENSE.txt": "/mtg-analyzer/static/js/2.e8744b4c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.766b1336.js",
     "static/css/2.6414bb7b.chunk.css",
-    "static/js/2.91d1848a.chunk.js",
+    "static/js/2.e8744b4c.chunk.js",
     "static/css/main.f09315ee.chunk.css",
-    "static/js/main.be4bb029.chunk.js"
+    "static/js/main.795baa69.chunk.js"
   ]
 }

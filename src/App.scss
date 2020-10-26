@@ -56,10 +56,10 @@ body {
 }
 
 a {
-  color: $primaryColor;
+  color: #4183c4;
 
   &:hover {
-    color: lighten(hsl(44, 100%, 49%), 30%);
+    color: #007bff;
   }
   &.hidden-link {
     color: inherit;

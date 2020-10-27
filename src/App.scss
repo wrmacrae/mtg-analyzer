@@ -7,10 +7,10 @@ html {
 
 body {
   line-height: 1.8;
-  font-family: 'Open Sans', 'Century Gothic', sans-serif;
+  font-family: Lato,'Helvetica Neue',Arial,Helvetica,sans-serif;
   text-rendering: optimizeLegibility;
   background-color: $backgroundColor;
-  color: #f3eded;
+  color: #e5e5e5;
 }
 @media (max-width: 1200px) {
   body {
@@ -88,28 +88,26 @@ a {
   }
 }
 h1, h2, h3, h4, h5 {
-  font-family: Poppins, 'Open Sans', 'Century Gothic', sans-serif;
+  font-family: Lato,'Helvetica Neue',Arial,Helvetica,sans-serif;
 }
 h1 {
   font-weight: 700;
-  font-size: 32px;
+  font-size: 24px;
   line-height: 44px;
-  text-transform: uppercase;
-  color: $primaryColor;
 }
 h2 {
-  font-size: 26px;
+  font-size: 20px;
   line-height: 36px;
   font-weight: 700;
 }
 h3 {
-  font-size: 20px;
-}
-h4 {
   font-size: 18px;
 }
-h5 {
+h4 {
   font-size: 16px;
+}
+h5 {
+  font-size: 14px;
 }
 hr {
   margin: 15px 0;

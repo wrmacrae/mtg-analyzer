@@ -29,9 +29,11 @@ rules.push(<Rule
   target="0.06"
   children={<div>
     You picked lower-ranked cards in 10.7% of your early picks. (Goal: 6%)
-    <Pick higherLink="https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/1/112077b8-1514-4320-a70f-b23f3c7ce18a.jpg?1598989632" higherName="Merfolk Windrobber" pickedLink="https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/6/f6455009-030c-4a33-a60b-80863d8f8aaf.jpg?1599564503" pickedName="Risen Riptide" link="https://www.17lands.com/draft/cf5353d791c841c7a98ee8e75f9fa9db/1/4" />
-    <Pick higherLink="https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/2/f25d56f9-aa54-4657-9ac9-e93fbba3e715.jpg?1599058079" higherName="Sejiri Shelter" pickedLink="https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/8/b83cfbaa-7890-4f6f-878b-4edb45677371.jpg?1599009679" pickedName="Skyclave Apparition" link="https://www.17lands.com/draft/11375a76e01f483aa88f549f67fe9435" />
-    </div>}
+    <ul>
+      <li><Pick higherLink="https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/1/112077b8-1514-4320-a70f-b23f3c7ce18a.jpg?1598989632" higherName="Merfolk Windrobber" pickedLink="https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/6/f6455009-030c-4a33-a60b-80863d8f8aaf.jpg?1599564503" pickedName="Risen Riptide" link="https://www.17lands.com/draft/cf5353d791c841c7a98ee8e75f9fa9db/1/4" /></li>
+      <li><Pick higherLink="https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/2/f25d56f9-aa54-4657-9ac9-e93fbba3e715.jpg?1599058079" higherName="Sejiri Shelter" pickedLink="https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/8/b83cfbaa-7890-4f6f-878b-4edb45677371.jpg?1599009679" pickedName="Skyclave Apparition" link="https://www.17lands.com/draft/11375a76e01f483aa88f549f67fe9435" /></li>
+    </ul>
+  </div>}
 />);
 rules.push(<Rule
   name="Move off of B cards' colors when appropriate"
@@ -85,8 +87,10 @@ rules.push(<Rule
   target="0.25"
   children={<div>
     <div>You changed an average of 0.84 cards when sideboarding. (Goal: 0.25).</div>
-    <div>You changed 4 cards when sideboarding here: <a href="https://www.17lands.com/deck/3973b55b6eb344a98b65cf0b614cb384/2">https://www.17lands.com/deck/3973b55b6eb344a98b65cf0b614cb384/2</a></div>
-    <div>You changed 2 cards when sideboarding here: <a href="https://www.17lands.com/deck/6122837c777c4d00a81b93d1beef2f20/1">https://www.17lands.com/deck/6122837c777c4d00a81b93d1beef2f20/1</a></div>
+    <ul>
+    <li><div>You changed 4 cards when sideboarding here: <a href="https://www.17lands.com/deck/3973b55b6eb344a98b65cf0b614cb384/2">https://www.17lands.com/deck/3973b55b6eb344a98b65cf0b614cb384/2</a></div></li>
+    <li><div>You changed 2 cards when sideboarding here: <a href="https://www.17lands.com/deck/6122837c777c4d00a81b93d1beef2f20/1">https://www.17lands.com/deck/6122837c777c4d00a81b93d1beef2f20/1</a></div></li>
+    </ul>
   </div>}
 />);
 
